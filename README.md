@@ -41,6 +41,7 @@ The designs were created to the following widths:
 
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
 - Weights: 400
+![Screenshot 2023-12-21 194730](https://github.com/Prem0302/Card-Task/assets/121685154/c851a570-f417-487d-837c-6d8ac3ac61b2)
 
 
 
