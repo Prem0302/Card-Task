@@ -15,7 +15,7 @@ body{
   display: flex; 
   justify-content: center; 
   align-items: center; 
-  height: 700px;"
+  height: 700px;
 }
 
 .card{
@@ -74,12 +74,5 @@ h2{
   border-radius: 0 20px 20px 0;
 color:hsl(277, 64%, 61%); 
 }
-@media screen and (max-width:1440px){
-  .con{
-    flex:0;
-    max-width: 100px;
-    padding-right: 40%;
-  }
-  
-}
+
 
